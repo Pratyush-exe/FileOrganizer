@@ -18,7 +18,10 @@ An executable software that sorts files into folders with least of efforts. More
 4. Choose "Default" or "Custom" sorting menu as per your need.
 	1. Default Menu: It has pre-defined folder names which can be seen the drop down menu "Folder Names". On clicking the "..." button beside the drop down menu prints more details about the default setting in the second screen that popped up when the software was initiated.
 	2. Custom Menu: It helps in creating folders and also gives you the freedom to choose what type of file are to get into the folder.
+	
+	
 	![](screenshots/44.png)
+	
 	
 		1. "Add" button allows you to add folder names and extensions/names that will be used for sorting.
 		
