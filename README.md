@@ -1,7 +1,7 @@
 # FileOrganizer
 An executable software that sorts files into folders with least of efforts. Moreover it does not require any installation. 
 
-![](img_data/2.jpg)
+![](img_data/22.jpg)
 
 [Click here](http://google.com) to download the zip.
 
