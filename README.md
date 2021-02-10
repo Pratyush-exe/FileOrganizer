@@ -21,7 +21,11 @@ An executable software that sorts files into folders with least of efforts. More
 	![](screenshots/44.png)
 	
 		1. "Add" button allows you to add folder names and extensions/names that will be used for sorting.
+		
+		
 		![](screenshots/55.png)
+		
+		
 		Click on "Confirm" to commit changes.
 		2. "R" button is the refresh button, it refreshes the board where the added folder names are displayed.
 		3. "Remove" button allows to delete a folder entry that was created before. To use this, make sure to refresh the board. Now click on the FolderName, it gets highlighted, and press "Remove". This removes the folder entry. 
