@@ -6,6 +6,11 @@ An executable software that sorts files into folders with least of efforts. More
 1. Unzip the file named "Organizer.zip"
 2. Doubke click "Organier.exe"
 3. Click "Choose File" and choose the the folder where the files are to be sorted.
+
+
+![](screenshots/1.png)
+
+
 4. Choose "Default" or "Custom" sorting menu as per your need.
 	1. Default Menu: It has pre-defined folder names which can be seen the drop down menu.
 		 It makes folders for music, images, audio.......
