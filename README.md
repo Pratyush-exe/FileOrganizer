@@ -3,7 +3,7 @@ An executable software that sorts files into folders with least of efforts. More
 
 ![](img_data/2.jpg)
 
-[Click here](https://google.com) to download the zip.
+[Click here](http://google.com) to download the zip.
 
 
 ## Steps to use the software
